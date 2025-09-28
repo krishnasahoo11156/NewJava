@@ -1,6 +1,7 @@
-package Basic;
+package Assignments;
 
 import java.util.Scanner;
+
 public class Fibonacci {
     static void main(String[] args) {
 

@@ -1,6 +1,7 @@
-package Basic;
+package Assignments;
 
 import java.util.Scanner;
+
 public class Max2num {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

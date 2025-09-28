@@ -16,5 +16,6 @@ public class ReverseNum {
         }
 
         System.out.println(reverse);
+        sc.close();
     }
 }
